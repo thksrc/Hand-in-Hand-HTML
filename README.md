@@ -1,4 +1,4 @@
-# Hand in Hand - HTML
+# Hand in Hand - Web Development 
 
 This is the starter code for the Youth Hand in Hand Web Development class.
 
